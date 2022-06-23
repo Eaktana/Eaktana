@@ -10,3 +10,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Eaktana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://fb.com/eakm.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eakm.me" height="30" width="40" /></a>
+</p>
